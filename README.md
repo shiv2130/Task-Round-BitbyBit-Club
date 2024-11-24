@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 Bit by Bit club task round project
 
 It is a simple landing page for a club
+
+Inital Commits
